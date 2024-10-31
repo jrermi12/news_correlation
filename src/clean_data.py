@@ -3,7 +3,7 @@ import pandas as pd
 import string
 
 sys.path.append('../')
-from src.data_loader import load_data
+from data_loader import load_data
 
 def clean_data():
     # Load data
