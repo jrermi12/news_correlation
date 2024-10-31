@@ -4,3 +4,5 @@ matplotlib
 scikit-learn
 seaborn
 pytest
+psycopg2
+sqlalchemy
